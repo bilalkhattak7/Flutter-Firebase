@@ -34,6 +34,10 @@ dependencies:
   firebase_auth:
   firebase_database:
   cloud_firestore:
+  image_picker:
+  file_picker:
+  firebase_storage:
+  video_player:
 
 
 
